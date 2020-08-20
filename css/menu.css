@@ -1,0 +1,91 @@
+    
+/* ========== BASE STYLES ========== */
+
+
+body {
+    background: url('../img/salad.jpg');
+    background-size: cover;
+}   
+
+main {
+	background: #FFFFFF;
+	width: 1200px;
+	margin: auto;
+	height: 100%;
+}
+
+
+/* ========== HEADER STYLES ========== */
+
+header {
+	background: #FFFFFF;
+	
+}
+
+
+/* ========== BODY STYLES ========== */
+
+#menu-header {
+	border-top: 3px solid #77a466;
+	border-bottom: 1px solid #dedbdc; 
+	width: 1200px;
+}
+
+#menu-header h2 {
+	padding: 10px 20px 0px 20px;
+}
+
+#menu-header p {
+	padding: 10px 20px 10px 20px;
+}
+
+#topleft {
+	padding-left: 20px;
+	padding-right: 10px;
+}
+
+#topmiddle {
+	padding-left: 20px;
+	border-left: 1px solid #dedbdc;
+	padding-right: 10px;
+}
+
+#topright {
+	padding-left: 20px;
+	border-left: 1px solid #dedbdc;
+}
+
+#bottomleft {
+	padding-left: 20px;
+	padding-right: 10px;
+}
+
+#bottommiddle {
+	padding-left: 20px;
+	border-left: 1px solid #dedbdc;
+	padding-right: 10px;
+}
+
+#bottomright {
+	padding-left: 20px;
+	border-left: 1px solid #dedbdc;
+}
+
+
+/* ========== FOOTER STYLES ========== */
+
+#footer-section {
+	margin: auto;
+	width: 1200px;	
+	border-top: 1px solid #dedbdc;
+}
+
+#photo-credit p {
+	font-size: 10px;
+	padding-left: 10px;
+}
+
+h3 {
+	margin-top: 0;
+	margin-left: 0;
+}
